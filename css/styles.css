@@ -110,18 +110,22 @@ footer {
 }
 
 #leftdiv {
+    display: inline-block;
     float: left;
     width: 50%;
 }
 #rightdiv {
+    display: inline-block;
     float: left;
     width: 50%;
 }
 #leftdiv2 {
+    display: inline-block;
     float: left;
     width: 50%;
 }
 #rightdiv2 {
+    display: inline-block;
     float: left;
     width: 50%;
 }
