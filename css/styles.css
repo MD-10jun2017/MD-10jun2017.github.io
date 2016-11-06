@@ -117,6 +117,14 @@ footer {
     float: left;
     width: 50%;
 }
+#leftdiv2 {
+    float: left;
+    width: 50%;
+}
+#rightdiv2 {
+    float: left;
+    width: 50%;
+}
 
 
 .no-padding {
