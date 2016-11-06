@@ -105,7 +105,19 @@ aside {
 
 footer {
     padding: 15px;
+    background-color:#2d2d2d;
+
 }
+
+#leftdiv {
+    float: left;
+    width: 50%;
+}
+#rightdiv {
+    float: left;
+    width: 50%;
+}
+
 
 .no-padding {
     padding: 0;
@@ -274,10 +286,6 @@ header .header-content .inner p {
 
 #video-background.collapsing {
   display:none;
-}
-
-footer {
-    background-color:#2d2d2d;
 }
 
 @media(min-width:768px) {
